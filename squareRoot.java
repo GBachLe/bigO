@@ -21,4 +21,4 @@ public class squareRoot {
 		return root;
 	}
 }
-// O(n^2)
+// O(n)
