@@ -10,7 +10,7 @@ public class squareRoot {
 	// x <- (x + n/2)/2
 	public static double squareRoot(double num) {
 		double i = 0;
-		double root = num/2;
+		double root = 17;
 		do {
 			i = root;
 			root = (i+(num/i))/2;
