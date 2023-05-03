@@ -2,10 +2,8 @@ package bigO;
 
 public class squareRoot {
 	public static void main(String[] args) {
-
 		double figure = 9;
 		System.out.println(squareRoot(figure));
-
 	}
 	
 	//Applying Babylonian method
