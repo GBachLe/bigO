@@ -11,7 +11,7 @@ public static void main(String[] args) {
 
 public static int findFibonacci (int num) {
 	if ( num == 0 || num == 1 ) {
-		return num;
+		return 1;
 	}
 	
 	else {
